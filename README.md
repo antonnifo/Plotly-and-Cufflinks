@@ -7,4 +7,8 @@ In order for this all to work, you'll need to install plotly and cufflinks to ca
     pip install plotly  
     pip install cufflinks  
 ```    
-**NOTE: Make sure you only have one installation of Python on your computer when you do this, otherwise the installation may not work.**
+**NOTE: Make sure you only have one installation of Python on your computer when you do this, otherwise the installation may not work.**  
+
+**iplot bubble**  
+
+![bubble](https://user-images.githubusercontent.com/31370503/65385652-27f94500-dd3a-11e9-9134-dc12341143e6.png)
